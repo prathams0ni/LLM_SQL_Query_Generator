@@ -394,12 +394,21 @@ SQL Generator App.bat
 
 ---
 
-## 👨‍💻 Author
+---
 
-Pratham Soni
+# 📬 Contact Details
+
+For queries, contributions, or collaboration opportunities, feel free to reach out:
+
+📧 **Email:** prathamsoni1128@gmail.com 
+🔗 **LinkedIn:** https://www.linkedin.com/in/pratham-soni-600787268/
+💻 **GitHub:** https://github.com/prathams0ni 
+
+**QueryMind is more than a Natural Language to SQL tool —**  
+it represents a practical implementation of **schema-aware AI reasoning, secure database interaction, and self-healing system design**.
+
+> Turning databases into intelligent, conversational systems — one query at a time.
 
 ---
 
-# ⭐ QueryMind
-
-Making databases conversational with AI.
+⭐ If you found this project interesting, consider giving it a star and connecting!
