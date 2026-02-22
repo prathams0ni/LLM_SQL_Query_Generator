@@ -1,20 +1,8 @@
 # 🧠 QueryMind: LLM-Powered Natural Language to SQL Engine
 
-# 🚀 Project Overview
+## 🚀 Project Overview
 
 > QueryMind is a production-style Natural Language to SQL engine that transforms human language into secure, executable SQL queries using a locally hosted Large Language Model (Mistral via Ollama).
-
----
-
-<img width="1904" height="760" alt="image" src="https://github.com/user-attachments/assets/aadf9bb1-328c-4d90-bfd0-a520ef4736c9" />
-
----
-
-<img width="1908" height="862" alt="image" src="https://github.com/user-attachments/assets/1a3262bd-8d80-4bf0-87b7-8fd05062cf54" />
-
-
-
-
 Unlike basic NL-to-SQL demos, QueryMind is designed as a complete system with real-world architectural considerations including:
 
 - Dynamic multi-database discovery
@@ -25,6 +13,14 @@ Unlike basic NL-to-SQL demos, QueryMind is designed as a complete system with re
 - Real-time visualization
 
 The application directly connects to the MySQL server and automatically detects all available databases. Any database present in MySQL Workbench will appear in the UI without hardcoding.
+
+---
+
+<img width="1904" height="760" alt="image" src="https://github.com/user-attachments/assets/aadf9bb1-328c-4d90-bfd0-a520ef4736c9" />
+
+---
+
+<img width="1908" height="862" alt="image" src="https://github.com/user-attachments/assets/1a3262bd-8d80-4bf0-87b7-8fd05062cf54" />
 
 Users can:
 
