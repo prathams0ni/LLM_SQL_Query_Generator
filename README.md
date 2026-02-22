@@ -156,7 +156,7 @@ QueryMind follows a multi-layer architecture:
 
 ---
 
-# 🔥 Engineering Insight
+## 🔥 Engineering Insight
 
 QueryMind is designed as a layered AI system rather than a simple LLM wrapper.
 
@@ -262,8 +262,6 @@ QueryMind addresses these limitations and simulates a real-world AI SQL assistan
 - Role-based access control
 - Cloud deployment
 - LLM fine-tuning on SQL datasets
-
---- ##
 
 ---
 
@@ -396,12 +394,14 @@ SQL Generator App.bat
 
 ---
 
-# 📬 Contact Details
+## 📬 Contact Details
 
 For queries, contributions, or collaboration opportunities, feel free to reach out:
 
 📧 **Email:** prathamsoni1128@gmail.com 
+
 🔗 **LinkedIn:** https://www.linkedin.com/in/pratham-soni-600787268/
+
 💻 **GitHub:** https://github.com/prathams0ni 
 
 **QueryMind is more than a Natural Language to SQL tool —**  
