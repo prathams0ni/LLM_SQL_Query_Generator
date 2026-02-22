@@ -8,7 +8,8 @@
 
 <img width="1904" height="760" alt="image" src="https://github.com/user-attachments/assets/aadf9bb1-328c-4d90-bfd0-a520ef4736c9" />
 
-<img width="1908" height="862" alt="image" src="https://github.com/user-attachments/assets/65439563-c839-4958-bfa9-b514a42573e6" />
+<img width="1620" height="796" alt="image" src="https://github.com/user-attachments/assets/74cbc306-2e6c-4fa1-862e-2158318d6a11" />
+
 
 
 Unlike basic NL-to-SQL demos, QueryMind is designed as a complete system with real-world architectural considerations including:
