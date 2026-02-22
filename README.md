@@ -392,8 +392,6 @@ SQL Generator App.bat
 
 ---
 
----
-
 ## 📬 Contact Details
 
 For queries, contributions, or collaboration opportunities, feel free to reach out:
@@ -409,6 +407,6 @@ it represents a practical implementation of **schema-aware AI reasoning, secure 
 
 > Turning databases into intelligent, conversational systems — one query at a time.
 
----
-
 ⭐ If you found this project interesting, consider giving it a star and connecting!
+
+---
