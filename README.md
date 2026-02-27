@@ -16,6 +16,10 @@ The application directly connects to the MySQL server and automatically detects 
 
 ---
 
+<img width="1908" height="869" alt="image" src="https://github.com/user-attachments/assets/a7182c4c-8fdf-4120-b644-9ff44bc0543a" />
+
+---
+
 <img width="1904" height="760" alt="image" src="https://github.com/user-attachments/assets/aadf9bb1-328c-4d90-bfd0-a520ef4736c9" />
 
 ---
