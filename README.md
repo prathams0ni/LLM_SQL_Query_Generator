@@ -20,6 +20,21 @@ The application directly connects to the MySQL server and automatically detects 
 
 ---
 
+<img width="1916" height="864" alt="image" src="https://github.com/user-attachments/assets/1e5c43a9-5631-4f68-a614-33447a763c4e" />
+
+---
+
+<img width="1919" height="862" alt="image" src="https://github.com/user-attachments/assets/ce9b5d11-9e9a-4c5c-ba17-6262bae6dc6b" />
+
+---
+
+<img width="1904" height="863" alt="image" src="https://github.com/user-attachments/assets/f86821da-3b5f-492f-ac87-c4b2db4b0a25" />
+
+---
+
+
+/*
+
 <img width="1904" height="760" alt="image" src="https://github.com/user-attachments/assets/aadf9bb1-328c-4d90-bfd0-a520ef4736c9" />
 
 ---
