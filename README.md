@@ -32,15 +32,6 @@ The application directly connects to the MySQL server and automatically detects 
 
 ---
 
-
-/*
-
-<img width="1904" height="760" alt="image" src="https://github.com/user-attachments/assets/aadf9bb1-328c-4d90-bfd0-a520ef4736c9" />
-
----
-
-<img width="1908" height="862" alt="image" src="https://github.com/user-attachments/assets/1a3262bd-8d80-4bf0-87b7-8fd05062cf54" />
-
 Users can:
 
 • Select any database  
